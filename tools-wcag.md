@@ -1,6 +1,6 @@
 ## Kostenlose WCAG 2.1 (Level AA) Tools
 
-Hier ist eine Liste von kostenlosen Tools, die du nutzen kannst, um eine Website auf die Einhaltung der **WCAG 2.1 (Level AA)** zu testen:
+Liste kostenloser Tools, um eine Website auf die Einhaltung der **WCAG 2.1 (Level AA)** zu testen:
 
 ---
 
