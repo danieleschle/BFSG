@@ -1,4 +1,4 @@
 # Table of Contents
 
-1. [Übersicht](BFSG/overview)
+1. [Übersicht](overview)
 
