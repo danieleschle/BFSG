@@ -4,5 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - overview.md
+  - index.md
+  - standards.md
+  - tools-wcag.md
+  - tools.md
   

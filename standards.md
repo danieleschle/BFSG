@@ -1,3 +1,5 @@
+## Übersicht BFSG und Standards für Websites
+
 Das neue **Barrierefreiheitsstärkungsgesetz (BFSG)**, das 2021 in Deutschland beschlossen wurde, setzt die EU-Richtlinie 2019/882 über die **Barrierefreiheitsanforderungen für Produkte und Dienstleistungen** (European Accessibility Act, EAA) um. Es soll sicherstellen, dass mehr digitale Produkte und Dienstleistungen für Menschen mit Behinderungen zugänglich werden. Die konkreten Anforderungen an Websites und digitale Angebote basieren auf internationalen Standards und ergänzen bestehende Regelungen wie die der Barrierefreie-Informationstechnik-Verordnung (BITV 2.0). Hier ein Überblick:
 
 ---
