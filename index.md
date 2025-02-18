@@ -4,7 +4,7 @@
 2. [Kostenpflichtige und kostenlose Tools für barrierefreie Websites](tools)
 3. [Kostenlose WCAG Test-Tools + Empfehlungen für den Anfang](tools-wcag)
 
-## Übersicht Standards und Tools zu barrierefreien Websites
-1. [Analyse Homepage KUR mittels Axe Accessibility Checker](analyse-home-kur)
+## Tools, mit denen Websites auf Barrierefreiheit getestet werden können
+1. [axe DevTools for Web](axe-dev-tool)
 
 
